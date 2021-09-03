@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "findboxes": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\Ryanb\\source\\repos\\findboxes\\findboxes\\images\\ C:\\Users\\Ryanb\\source\\repos\\findboxes\\findboxes\\results\\ C:\\Users\\Ryanb\\OneDrive\\Desktop\\TessTraining\\"
+    },
+    "newProfile1": {
+      "commandName": "Executable"
+    }
+  }
+}
